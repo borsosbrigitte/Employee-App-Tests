@@ -1,2 +1,2 @@
 # Employee-App-Tests
- Automated tests on an Employee App
+ Automated tests on an Interview Management Web App
